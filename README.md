@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balabg94&label=Profile%20views&color=7a0eb4&style=flat" alt="balabg94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balabg94" alt="balabg94" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balabg94&theme=onedark" alt="balabg94" /></a> </p>
 
 - 🔭 I’m currently working on **OCPI**
 
