@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balagovind. I know it is a mouthful - call me Bala</h1>
 <h3 align="center">A backend and devops developer from Kerala. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithsml&label=Profile%20views&color=0e75b6&style=flat" alt="rohithsml" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithsml&label=Profile%20views&color=0e75b6&style=flat" alt="balabg94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balabg94" alt="balabg94" /></a> </p>
 
