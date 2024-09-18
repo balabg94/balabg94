@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balabg94&" alt="balabg94" /></p>
 
-[![Bala's Stack Overflow | Stats](https://stats.quine.sh/bg2094/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bg2094)
+<a href="https://stackoverflow.com/users/10127761/bg2094"><img src="https://stackoverflow.com/users/flair/10127761.png?theme=dark" width="208" height="58" alt="profile for bg2094 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for bg2094 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
